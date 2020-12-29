@@ -1,4 +1,4 @@
-<h1>fonofacil</h1>
+<h1>FONOFACIL</h1>
 <h2>Uma aplicação web para ajudar fonoaudiólogos no seu dia a dia</h2>
 
 <h3>Tecnologias usadas: </h3>
