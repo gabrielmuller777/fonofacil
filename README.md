@@ -1,8 +1,8 @@
-# fonofacil
-<h1>Uma aplicação web para ajudar fonoaudiólogos no seu dia a dia</h1>
+<h1>fonofacil</h1>
+<h2>Uma aplicação web para ajudar fonoaudiólogos no seu dia a dia</h2>
 
-<h2>Tecnologias usadas: </h2>
-<h3>
+<h3>Tecnologias usadas: </h3>
+<h4>
   <ol>
     <li>
       React
@@ -14,4 +14,4 @@
       Google Cloud Platform
     </li>
   </ol>
-</h3>
+</h4>
